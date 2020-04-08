@@ -1,1 +1,1 @@
-java -Xmx1G -jar ./otp.jar
+java -Xmx2G -jar ./otp.jar --build ./graphs/current
